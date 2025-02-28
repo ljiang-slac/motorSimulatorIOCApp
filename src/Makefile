@@ -13,7 +13,7 @@ ASYN_INCLUDE = /epics/asyn/include
 MotorSimulator_DBD += base.dbd
 MotorSimulator_DBD += $(MOTOR_DBD)/motorSupport.dbd
 MotorSimulator_DBD += $(ASYN_DBD)/asyn.dbd
-MotorSimulator_DBD += motorSim.dbd  # 添加这一行
+MotorSimulator_DBD += motorSim.dbd  #
 
 USR_DBDFLAGS += -I $(MOTOR_DBD)
 USR_DBDFLAGS += -I $(ASYN_DBD)
