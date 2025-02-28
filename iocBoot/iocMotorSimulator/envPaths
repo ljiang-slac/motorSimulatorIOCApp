@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iocMotorSimulator")
+epicsEnvSet("TOP","/app/MotorSimulatorApp")
+epicsEnvSet("EPICS_BASE","/epics/epics-base")

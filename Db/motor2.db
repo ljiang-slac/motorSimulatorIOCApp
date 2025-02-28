@@ -1,0 +1,180 @@
+record(motor, "MOTOR:DEV2:AXIS1") {
+    field(DESC, "Device 2 Axis 1")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),20,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS2") {
+    field(DESC, "Device 2 Axis 2")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),21,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS3") {
+    field(DESC, "Device 2 Axis 3")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),22,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS4") {
+    field(DESC, "Device 2 Axis 4")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),23,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS5") {
+    field(DESC, "Device 2 Axis 5")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),24,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS6") {
+    field(DESC, "Device 2 Axis 6")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),25,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS7") {
+    field(DESC, "Device 2 Axis 7")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),26,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS8") {
+    field(DESC, "Device 2 Axis 8")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),27,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS9") {
+    field(DESC, "Device 2 Axis 9")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),28,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS10") {
+    field(DESC, "Device 2 Axis 10")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),29,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS11") {
+    field(DESC, "Device 2 Axis 11")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),30,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS12") {
+    field(DESC, "Device 2 Axis 12")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),31,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS13") {
+    field(DESC, "Device 2 Axis 13")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),32,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS14") {
+    field(DESC, "Device 2 Axis 14")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),33,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS15") {
+    field(DESC, "Device 2 Axis 15")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),34,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS16") {
+    field(DESC, "Device 2 Axis 16")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),35,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS17") {
+    field(DESC, "Device 2 Axis 17")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),36,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS18") {
+    field(DESC, "Device 2 Axis 18")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),37,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS19") {
+    field(DESC, "Device 2 Axis 19")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),38,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
+record(motor, "MOTOR:DEV2:AXIS20") {
+    field(DESC, "Device 2 Axis 20")
+    field(DTYP, "asynMotor")
+    field(OUT, "@asyn($(PORT),39,1)MOTOR")
+    field(PREC, "3")
+    field(VELO, "1.0")
+    field(ACCL, "0.5")
+    field(MRES, "0.001")
+}
